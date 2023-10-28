@@ -1,13 +1,14 @@
-# Função recursiva para verificar se uma palavra é um palíndromo.
+# Função recursiva para verificar se uma palavra é um
+# palíndromo.
 def is_palindrome_recursive(word, low_index, high_index):
-    if not word:  # Se a palavra estiver vazia, não é um palíndromo.
+    if not word:  # Se a palavra estiver vazia, não
         return False
 
-    if low_index >= high_index:  # Se os índices baixo e alto se cruzarem, é um palíndromo.
+    if low_index >= high_index:  # Se índices se
         return True
 
-    if word[low_index] != word[high_index]:  # Se os caracteres nos índices baixo e alto são diferentes, não é um palíndromo.
+    if word[low_index] != word[high_index]:  # Se
         return False
 
-    # Chama a função recursiva com os índices baixo aumentado e alto diminuído para verificar os caracteres seguintes.
+    # Chama recursivamente com índices alterados
     return is_palindrome_recursive(word, low_index + 1, high_index - 1)
