@@ -29,17 +29,6 @@ python3 -m pip install -r dev-requirements.txt
 
 ---
 
-### 🧪 Executando os Testes
-
-O projeto utiliza o `pytest` para validação de corretude e performance (tempo de execução):
-
-```bash
-python3 -m pytest
-
-```
-
----
-
 ### 📁 Desafios Implementados
 
 | Desafio | Algoritmo | Complexidade |
