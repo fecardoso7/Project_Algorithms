@@ -1,10 +1,3 @@
-### 40 (MONO): text-[10px] tracking-[0.4em]
-
-### README GENERATOR: text-xs tracking-[0.8em]
-
-Aqui está o conteúdo completo formatado em Markdown. Você pode copiar todo o bloco abaixo e colar diretamente no seu arquivo `README.md`.
-
-```markdown
 # Algorithms & Complexity Project
 
 Este repositório contém uma série de algoritmos desenvolvidos para resolver problemas de lógica, manipulação de strings e busca otimizada. O foco principal foi a aplicação de conceitos de **Complexidade de Algoritmos (Big O)** e estruturas de dados eficientes.
@@ -70,19 +63,3 @@ Durante a execução deste projeto, foram exploradas as seguintes competências:
 4. **Testes de Unidade**: Garantia de que casos de borda (strings vazias, valores nulos, tipos inválidos) fossem tratados adequadamente.
 
 ---
-
-```
-
----
-
-### 41 (MONO): text-[10px] tracking-[0.4em]
-### FINAL CHECK: text-xs tracking-[0.8em]
-
-O arquivo acima já inclui:
-* As instruções exatas de instalação que você solicitou.
-* A menção obrigatória à sua formação na **Trybe**.
-* Uma tabela comparativa de complexidades para demonstrar autoridade técnica.
-
-Deseja que eu ajude com mais alguma formatação ou já podemos dar esse projeto como finalizado?
-
-```
